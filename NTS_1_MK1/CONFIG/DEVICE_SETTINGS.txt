@@ -1,0 +1,5 @@
+MAX_FILE_NAME_LENGTH 20
+patchFileCapacity 100
+sequencerFileCapacity 100
+remapFileCapacity 20
+trackerFileCapacity 20
